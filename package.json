@@ -70,7 +70,7 @@
     "at-least-node": "^1.0.0",
     "babel-loader": "^8.2.2",
     "clang-format": "^1.0.55",
-    "copy-webpack-plugin": "^5.1.1",
+    "copy-webpack-plugin": "^14.0.0",
     "cordova": "~13.0.0",
     "cordova-android": "^10.1.1",
     "cordova-browser": "~6.0.0",
